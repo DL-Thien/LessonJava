@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.lesson.Intrrr;
+
 import static java.lang.Math.sqrt;
 
 class Main {
